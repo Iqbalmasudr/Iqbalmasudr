@@ -4,7 +4,7 @@ I'm a Front End Developer. Passionate About Making Error- Free
  Website With 100% Client Satisfaction.
  
 
-Skills: JS / HTML / CSS
+Skills:  HTML / CSS / JS 
 
 - 🔭 I’m currently working on universe IT 
 - 🌱 I’m currently learning Javascript 
